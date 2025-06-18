@@ -1,4 +1,4 @@
-## Flutter e-commerce Application UI Design and Animation
+## Mobile Flutter e-commerce Application 
 
 <br>
 
